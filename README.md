@@ -1,51 +1,76 @@
-<h2 align="center">Hello there 👋,  I'm a Software Engineer, from ICESI University.</h2>
+# Nicolás Colmenares Ruiz 👋
+### **Software Engineer | Specializing in Full-Stack Systems & Machine Learning Engineering**
 
-###
+I am a Software Engineer graduated from **ICESI University** (Colombia), currently pursuing an **MSc in Applied Artificial Intelligence**. My engineering philosophy centers on **building robust, highly-optimized software architectures** that seamlessly couple advanced Machine Learning pipelines with lightweight, high-performance web systems.
 
-<h3 align="center">I have interest in web development and Machine Learning.</h3>
+---
 
-###
+## 🛠️ Tech Stack & Expertise
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>🧠 AI / ML Engineering</h3>
+      <ul>
+        <li><b>Frameworks:</b> PyTorch, TensorFlow</li>
+        <li><b>Generative AI:</b> LLMs (Gemini, GPT), RAG pipelines, Symbolic Music Gen</li>
+        <li><b>Languages:</b> Python</li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <h3>⚡ Full-Stack Systems</h3>
+      <ul>
+        <li><b>Frontend:</b> Next.js, React, TypeScript, TailwindCSS</li>
+        <li><b>Backend APIs:</b> FastAPI, NestJS, Node.js</li>
+        <li><b>Tooling:</b> uv, Ruff, Pytest</li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <h3>☁️ Cloud & DevOps</h3>
+      <ul>
+        <li><b>Cloud Providers:</b> AWS, Azure, Google Cloud</li>
+        <li><b>IaC & Contain.:</b> Terraform, Docker</li>
+        <li><b>CI/CD & Git:</b> GitHub Actions, Git Workflows</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Featured Architecture & Projects
+
+Here are a few projects I've designed and built:
+
+*   **🎹 [text2midi](https://github.com/ColRuDev/text2midi)** *(Public)*:
+    Deep learning-powered symbolic music generation bridging natural language descriptions and musical MIDI representations. Master's project at ICESI University.
+*   **🧬 [metronous](https://github.com/ColRuDev/metronous)** *(Public, Fork)*:
+    A high-precision telemetry, benchmarking, and calibration platform for local AI agents running on OpenCode.
+*   **📦 [summakit](https://github.com/ColRuDev/summakit)** *(Private)*:
+    An OS-agnostic systems architecture platform designed to centralize and automate software provisioning across Linux, macOS, and Windows.
+*   **🔍 [job-candidate-matcher](https://github.com/ColRuDev/job-candidate-matcher)** *(Public)*:
+    An AI-powered evaluation API that analyzes candidate profiles against job specifications to generate deep compatibility analysis.
+
+---
+
+## 📊 GitHub Metrics & Insights
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=NickescolR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NickescolR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-###
+---
+
+## 📬 Let's Connect
+
+If you'd like to talk about software engineering, AI systems, or professional opportunities, feel free to reach out!
 
 <div align="center">
-  <a href="https://linkedin.com/in/linkedin.com/in/nicolascolmenaressoftwareengineer" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://linkedin.com/in/nicolascolmenaressoftwareengineer" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="colmenares.ruiz.nicolas@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:colmenares.ruiz.nicolas@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NickescolR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NickescolR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
