@@ -42,14 +42,14 @@ I am a Software Engineer graduated from **ICESI University** (Colombia), current
 
 Here are a few projects I've designed and built:
 
-*   **🎹 [text2midi](https://github.com/ColRuDev/text2midi)** *(Public)*:
-    Deep learning-powered symbolic music generation bridging natural language descriptions and musical MIDI representations. Master's project at ICESI University.
-*   **🧬 [metronous](https://github.com/ColRuDev/metronous)** *(Public, Fork)*:
-    A high-precision telemetry, benchmarking, and calibration platform for local AI agents running on OpenCode.
-*   **📦 [summakit](https://github.com/ColRuDev/summakit)** *(Private)*:
-    An OS-agnostic systems architecture platform designed to centralize and automate software provisioning across Linux, macOS, and Windows.
-*   **🔍 [job-candidate-matcher](https://github.com/ColRuDev/job-candidate-matcher)** *(Public)*:
+*   **🎹 [text2midi](https://github.com/ColRuDev/text2midi)**:
+    Deep learning-powered symbolic music generation bridging natural language descriptions and musical MIDI representations. Developed as part of the MSc program at ICESI University.
+*   **🔍 [job-candidate-matcher](https://github.com/ColRuDev/job-candidate-matcher)**:
     An AI-powered evaluation API that analyzes candidate profiles against job specifications to generate deep compatibility analysis.
+*   **📂 [gemini-rag-demo](https://github.com/ColRuDev/gemini-rag-demo)**:
+    A minimal and highly efficient Retrieval-Augmented Generation (RAG) implementation using the Gemini File Search API, featuring a Streamlit web interface.
+*   **🤖 [lore-analist-agent](https://github.com/ColRuDev/lore-analist-agent)**:
+    An AI agent designed to query and analyze the lore, context, and databases of any series, movie, or videogame.
 
 ---
 
